@@ -24,6 +24,7 @@ successful=$(cat $file |
 # Number of stations read
 numstations=$(cat $file |
     egrep -o '/[A-Z]{2}' |
+    sort |
     uniq |
     wc -l)
 
