@@ -1,3 +1,5 @@
+## Functions for running MCMC on Robledo-Soler model
+
 log_posterior <- function(theta, y, z, phi, a0, b0, c0, v, eta) {
     ## Log posterior, up to a constant of proportionality, for RS model
 
