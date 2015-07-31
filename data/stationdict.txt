@@ -1,0 +1,37 @@
+Aberdeen,AB
+Aprovecho,AP
+Ashland,AS
+Bend,BE
+Boise,BO
+Burns,BU
+Challis,BO
+Cheney,CY
+Christmas Valley,CH
+Coeur d'Alene,CD
+Coos Bay,CB
+Corvallis,CV
+Dillon,DI
+Eugene,EU
+Forest Grove,FG
+Gladstone,GL
+Green River,GR
+Hermiston AgriMet,HN
+Hermiston,HE
+Hood River,HR
+Klamath Falls,KF
+Klamath Falls,KF
+La Grande,LG
+Madras,MA
+Milwaukie MES,PL
+Moab,MO
+Parkdale,PD
+Parma,PA
+Picabo,PI
+Portland,PT
+Scoggins Creek,SC
+Silver Lake,SL
+Twin Falls Agrimet,TW
+Twin Falls Kimberly,TF
+West Hood River,WR
+Whitehorse Ranch,WH
+Willamette High School,WI
